@@ -8,7 +8,7 @@
 | 235150200111040 | Putra Cakrawala Aulia Syafiq  |
 | 245150207111084 | Achmad Yusuf Hamdani Firmansyah  |
 
-# Pembagian Tugas
+## Pembagian Tugas
 
-# Links
+## Links
 Semua file yang berbentuk docx dan xlsx ada di dalam file [LINKS.md](./LINKS.md)
