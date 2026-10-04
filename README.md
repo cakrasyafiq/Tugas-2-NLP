@@ -1,4 +1,4 @@
-# Tugas NLP 1
+# Tugas NLP 2
 ## Kelompok 6
 | NIM | Anggota |
 | ---- | ------- |
