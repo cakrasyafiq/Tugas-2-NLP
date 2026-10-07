@@ -1,5 +1,5 @@
-Seorang/DT pejabat/NN baru/JJ dilantik/VB di/IN Jakarta/NNP ./Z
-Ia/PRP akan/MD menjalankan/VB tugas/NN strategis/JJ ini/PR secara/RB efektif/JJ dan/CC profesional/JJ ./Z
-Masyarakat/NN menilai/VB bahwa/SC program/NN tersebut/PR belum/NEG berlangsung/VB selama/IN satu/CD tahun/NND ./Z
-Setelah/SC tahap/NN kedua/OD ,/Z tersangka/NN pun/RP menghadapi/VB proses/NN hukum/NN di/IN pengadilan/NN ./Z
-Kejaksaan/NNP Agung/NNP mengungkapkan/VB bahwa/SC anggaran/NN program/NN MBG/NNP mencapai/VB Rp/SYM 3/CD triliun/CD (/Z 80/CD %/SYM )/Z ./Z
+Presiden/NNP Prabowo/NNP menyampaikan/VB kebijakan/NN baru/JJ ./Z
+Pemerintah/NNP akan/MD menjalankan/VB program/NN tersebut/PR secara/RB bertahap/RB ./Z
+Masyarakat/NN menilai/VB bahwa/SC kebijakan/NN itu/PR belum/NEG efektif/JJ ./Z
+Setelah/SC rapat/NN selesai/VB ,/Z Menteri/NNP Keuangan/NNP menjelaskan/VB hasil/NN keputusan/NN kepada/NN wartawan/NN ./Z
+Kejaksaan/NNP Agung/NNP mengungkapkan/VB bahwa/SC penyelidikan/NN kasus/NN tersebut/PR akan/MD dilanjutkan/VB secara/RB resmi/JJ ./Z
