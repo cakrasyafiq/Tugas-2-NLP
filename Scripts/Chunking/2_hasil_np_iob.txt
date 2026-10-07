@@ -1,0 +1,99 @@
+Kalimat ke-1:
+Pada	IN	O
+hari	NND	B-NP
+Kamis	NNP	I-NP
+,	Z	O
+1	CD	B-NP
+Oktober	NNP	I-NP
+2026	CD	O
+,	Z	O
+Presiden	NNP	B-NP
+Prabowo	NNP	I-NP
+Subianto	NNP	I-NP
+secara	RB	O
+resmi	JJ	O
+melakukan	VB	O
+perombakan	NN	B-NP
+atau	CC	O
+perombakan	NN	B-NP
+kabinet	NN	I-NP
+yang	SC	O
+ketujuh	OD	B-NP
+kalinya	NND	I-NP
+di	IN	O
+Istana	NNP	B-NP
+Merdeka	NNP	I-NP
+.	Z	O
+
+Kalimat ke-2:
+Dalam	IN	O
+perombakan	NN	B-NP
+jajaran	NN	I-NP
+Kabinet	NNP	I-NP
+Merah	JJ	I-NP
+Putih	JJ	I-NP
+tersebut	PR	I-NP
+,	Z	O
+sejumlah	CD	B-NP
+posisi	NN	I-NP
+strategis	JJ	I-NP
+mengalami	VB	O
+pergantian	NN	B-NP
+,	Z	O
+mulai	NN	B-NP
+dari	IN	O
+tingkatan	NN	B-NP
+menteri	NN	I-NP
+hingga	IN	O
+wakil	NN	B-NP
+menteri	NN	I-NP
+.	Z	O
+
+Kalimat ke-3:
+Selain	NN	B-NP
+itu	PR	I-NP
+,	Z	O
+dilantik	VB	O
+pula	RB	O
+beberapa	CD	B-NP
+pejabat	NN	I-NP
+baru	JJ	I-NP
+yang	SC	O
+diharapkan	VB	O
+mampu	MD	O
+menambah	VB	O
+dimensi	NN	B-NP
+kebijakan	NN	I-NP
+di	IN	O
+tingkat	NN	B-NP
+pemerintahan	NN	I-NP
+pusat	NN	I-NP
+.	Z	O
+
+Kalimat ke-4:
+Perubahan	NN	B-NP
+struktural	NN	I-NP
+ini	PR	I-NP
+ditandai	VB	O
+dengan	IN	O
+adanya	NN	B-NP
+penambahan	NN	I-NP
+posisi	NN	I-NP
+wakil	NN	I-NP
+menteri	NN	I-NP
+.	Z	O
+
+Kalimat ke-5:
+Secara	RB	O
+konseptual	NN	B-NP
+,	Z	O
+penambahan	NN	B-NP
+ini	PR	I-NP
+bertujuan	VB	O
+untuk	IN	O
+memperluas	VB	O
+jangkauan	NN	B-NP
+implementasi	NN	I-NP
+kebijakan	NN	I-NP
+publik	JJ	I-NP
+.	Z	O

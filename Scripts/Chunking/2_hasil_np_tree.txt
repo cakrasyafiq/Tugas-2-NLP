@@ -1,0 +1,78 @@
+Kalimat ke-1:
+(S
+  Pada/IN
+  (NP hari/NND Kamis/NNP)
+  ,/Z
+  (NP 1/CD Oktober/NNP)
+  2026/CD
+  ,/Z
+  (NP Presiden/NNP Prabowo/NNP Subianto/NNP)
+  secara/RB
+  resmi/JJ
+  melakukan/VB
+  (NP perombakan/NN)
+  atau/CC
+  (NP perombakan/NN kabinet/NN)
+  yang/SC
+  (NP ketujuh/OD kalinya/NND)
+  di/IN
+  (NP Istana/NNP Merdeka/NNP)
+  ./Z)
+
+Kalimat ke-2:
+(S
+  Dalam/IN
+  (NP
+    perombakan/NN
+    jajaran/NN
+    Kabinet/NNP
+    Merah/JJ
+    Putih/JJ
+    tersebut/PR)
+  ,/Z
+  (NP sejumlah/CD posisi/NN strategis/JJ)
+  mengalami/VB
+  (NP pergantian/NN)
+  ,/Z
+  (NP mulai/NN)
+  dari/IN
+  (NP tingkatan/NN menteri/NN)
+  hingga/IN
+  (NP wakil/NN menteri/NN)
+  ./Z)
+
+Kalimat ke-3:
+(S
+  (NP Selain/NN itu/PR)
+  ,/Z
+  dilantik/VB
+  pula/RB
+  (NP beberapa/CD pejabat/NN baru/JJ)
+  yang/SC
+  diharapkan/VB
+  mampu/MD
+  menambah/VB
+  (NP dimensi/NN kebijakan/NN)
+  di/IN
+  (NP tingkat/NN pemerintahan/NN pusat/NN)
+  ./Z)
+
+Kalimat ke-4:
+(S
+  (NP Perubahan/NN struktural/NN ini/PR)
+  ditandai/VB
+  dengan/IN
+  (NP adanya/NN penambahan/NN posisi/NN wakil/NN menteri/NN)
+  ./Z)
+
+Kalimat ke-5:
+(S
+  Secara/RB
+  (NP konseptual/NN)
+  ,/Z
+  (NP penambahan/NN ini/PR)
+  bertujuan/VB
+  untuk/IN
+  memperluas/VB
+  (NP jangkauan/NN implementasi/NN kebijakan/NN publik/JJ)
+  ./Z)
